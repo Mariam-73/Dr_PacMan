@@ -1,0 +1,21 @@
+                                OOP Project
+                                               Dr. Pacman is a 2D, tile based game.
+                       It has been developed on world's fight against COVID'19 pademic. 
+                       
+
+                 Player i.e Dr Pacman                             Ghost  i.e Corona-Virus
+       
+                 Collectables i.e. Vaccine      5 score                          10score
+
+                                                           The game ends with 
+            either player loosing i.e                                            or player winning i.e 
+            >>> Time running out                                             >>> Dr Pacman collecting 
+            >>> Dr Pacman coming in contact                                all the Collectables
+                    with Corona Virus
+   
+           
+            ~Stay Home Stay Safe                                                                   By:
+                                                                                                        Mariam Manzoor 293055
+                                                                                                        Duaa Ahmed     
+                                                                                                        BEE-11C
+
