@@ -1,4 +1,6 @@
 # Dr_PacMan
+![start](https://user-images.githubusercontent.com/62066608/206679634-11726d97-a19a-43a4-9e93-11150e41153e.png)
+![Level_3](https://user-images.githubusercontent.com/62066608/206680071-c524590b-4048-4b34-b9a8-35e642f524f4.png)
 # Instruction for Execution
 
 •	Install an IDE. (The team developed the game on Clion (Ubuntu) and/or visual studio (Windows)) <br>
@@ -26,7 +28,7 @@
 Note: Screen Resolution = 1366x768  <br>
 The game window may not display properly on significantly different screen resolution. <br>
 
-![start](https://user-images.githubusercontent.com/62066608/206679634-11726d97-a19a-43a4-9e93-11150e41153e.png)
-![start](https://user-images.githubusercontent.com/62066608/206679667-b59f6fee-6b40-449e-a3dc-27ea06a68922.png)
+![Uploading OOP_PROJECT_UML.png…]()
+
 
 
